@@ -1,7 +1,7 @@
 ---
 title: "Blind Drifting: Diffusion models with a linear SDE drift term for blind image restoration tasks"
 collection: publications
-permalink: /publication/2022-12-14-blind-drifting
+permalink: /publication/blind-drifting-dlde
 excerpt: ''
 date: 2022-12-14
 venue: 'The Symbiosis of Deep Learning and Differential Equations II'

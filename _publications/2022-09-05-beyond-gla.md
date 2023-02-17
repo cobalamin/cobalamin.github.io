@@ -1,7 +1,7 @@
 ---
 title: "Beyond Griffin-Lim: Improved Iterative Phase Retrieval for Speech"
 collection: publications
-permalink: /publication/2022-09-05-beyond-gla
+permalink: /publication/beyond-gla
 excerpt: ''
 date: 2022-09-05
 venue: 'IWAENC 2022'

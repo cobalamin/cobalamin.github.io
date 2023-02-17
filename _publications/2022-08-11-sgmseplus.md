@@ -1,7 +1,7 @@
 ---
 title: "Speech Enhancement and Dereverberation with Diffusion-based Generative Models"
 collection: publications
-permalink: /publication/2022-08-11-sgmseplus
+permalink: /publication/sgmseplus
 excerpt: ''
 date: 2022-08-11
 venue: 'arXiv preprint arXiv:2208.05830'
